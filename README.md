@@ -3,9 +3,9 @@ Implementação de um software que separa as páginas de um PDF em arquivos úni
 
 A aplicação está finalizada em um executável (.exe) e funciona no windows. Porém, a partir do código fonte disposto aqui é póssivel compilar para qualquer dispositivo, inclusive dispositivos móveis (IOS e Android).
 
-## Ferramentas e bibliotecas utilizadas
+## Ferramentas e Bibliotecas utilizadas
 
-- Python
-- Kivy
-- PyPDF2
-- PyInstaller (build para executável)
+- <a href="https://www.python.org/">Python</a>
+- <a href="https://kivy.org/">Kivy</a>
+- <a href="https://github.com/py-pdf/PyPDF2">PyPDF2</a>
+- <a href="https://pyinstaller.org/">PyInstaller</a> (build para executável)
